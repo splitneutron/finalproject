@@ -1,0 +1,4794 @@
+[
+	{
+		"customer_key" : 1,
+		"customer_id" : 1,
+		"store_id" : 1,
+		"first_name" : "MARY",
+		"last_name" : "SMITH",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 2,
+		"customer_id" : 2,
+		"store_id" : 1,
+		"first_name" : "PATRICIA",
+		"last_name" : "JOHNSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 3,
+		"customer_id" : 3,
+		"store_id" : 1,
+		"first_name" : "LINDA",
+		"last_name" : "WILLIAMS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 4,
+		"customer_id" : 4,
+		"store_id" : 2,
+		"first_name" : "BARBARA",
+		"last_name" : "JONES",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 5,
+		"customer_id" : 5,
+		"store_id" : 1,
+		"first_name" : "ELIZABETH",
+		"last_name" : "BROWN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 6,
+		"customer_id" : 6,
+		"store_id" : 2,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 7,
+		"customer_id" : 7,
+		"store_id" : 1,
+		"first_name" : "MARIA",
+		"last_name" : "MILLER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 8,
+		"customer_id" : 8,
+		"store_id" : 2,
+		"first_name" : "SUSAN",
+		"last_name" : "WILSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 9,
+		"customer_id" : 9,
+		"store_id" : 2,
+		"first_name" : "MARGARET",
+		"last_name" : "MOORE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 10,
+		"customer_id" : 10,
+		"store_id" : 1,
+		"first_name" : "DOROTHY",
+		"last_name" : "TAYLOR",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 11,
+		"customer_id" : 11,
+		"store_id" : 2,
+		"first_name" : "LISA",
+		"last_name" : "ANDERSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 12,
+		"customer_id" : 12,
+		"store_id" : 1,
+		"first_name" : "NANCY",
+		"last_name" : "THOMAS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 13,
+		"customer_id" : 13,
+		"store_id" : 2,
+		"first_name" : "KAREN",
+		"last_name" : "JACKSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 14,
+		"customer_id" : 14,
+		"store_id" : 2,
+		"first_name" : "BETTY",
+		"last_name" : "WHITE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 15,
+		"customer_id" : 15,
+		"store_id" : 1,
+		"first_name" : "HELEN",
+		"last_name" : "HARRIS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 16,
+		"customer_id" : 16,
+		"store_id" : 2,
+		"first_name" : "SANDRA",
+		"last_name" : "MARTIN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 17,
+		"customer_id" : 17,
+		"store_id" : 1,
+		"first_name" : "DONNA",
+		"last_name" : "THOMPSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 18,
+		"customer_id" : 18,
+		"store_id" : 2,
+		"first_name" : "CAROL",
+		"last_name" : "GARCIA",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 19,
+		"customer_id" : 19,
+		"store_id" : 1,
+		"first_name" : "RUTH",
+		"last_name" : "MARTINEZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 20,
+		"customer_id" : 20,
+		"store_id" : 2,
+		"first_name" : "SHARON",
+		"last_name" : "ROBINSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 21,
+		"customer_id" : 21,
+		"store_id" : 1,
+		"first_name" : "MICHELLE",
+		"last_name" : "CLARK",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 22,
+		"customer_id" : 22,
+		"store_id" : 1,
+		"first_name" : "LAURA",
+		"last_name" : "RODRIGUEZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 23,
+		"customer_id" : 23,
+		"store_id" : 2,
+		"first_name" : "SARAH",
+		"last_name" : "LEWIS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 24,
+		"customer_id" : 24,
+		"store_id" : 2,
+		"first_name" : "KIMBERLY",
+		"last_name" : "LEE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 25,
+		"customer_id" : 25,
+		"store_id" : 1,
+		"first_name" : "DEBORAH",
+		"last_name" : "WALKER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 26,
+		"customer_id" : 26,
+		"store_id" : 2,
+		"first_name" : "JESSICA",
+		"last_name" : "HALL",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 27,
+		"customer_id" : 27,
+		"store_id" : 2,
+		"first_name" : "SHIRLEY",
+		"last_name" : "ALLEN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 28,
+		"customer_id" : 28,
+		"store_id" : 1,
+		"first_name" : "CYNTHIA",
+		"last_name" : "YOUNG",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 29,
+		"customer_id" : 29,
+		"store_id" : 2,
+		"first_name" : "ANGELA",
+		"last_name" : "HERNANDEZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 30,
+		"customer_id" : 30,
+		"store_id" : 1,
+		"first_name" : "MELISSA",
+		"last_name" : "KING",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 31,
+		"customer_id" : 31,
+		"store_id" : 2,
+		"first_name" : "BRENDA",
+		"last_name" : "WRIGHT",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 32,
+		"customer_id" : 32,
+		"store_id" : 1,
+		"first_name" : "AMY",
+		"last_name" : "LOPEZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 33,
+		"customer_id" : 33,
+		"store_id" : 2,
+		"first_name" : "ANNA",
+		"last_name" : "HILL",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 34,
+		"customer_id" : 34,
+		"store_id" : 2,
+		"first_name" : "REBECCA",
+		"last_name" : "SCOTT",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 35,
+		"customer_id" : 35,
+		"store_id" : 2,
+		"first_name" : "VIRGINIA",
+		"last_name" : "GREEN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 36,
+		"customer_id" : 36,
+		"store_id" : 2,
+		"first_name" : "KATHLEEN",
+		"last_name" : "ADAMS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 37,
+		"customer_id" : 37,
+		"store_id" : 1,
+		"first_name" : "PAMELA",
+		"last_name" : "BAKER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 38,
+		"customer_id" : 38,
+		"store_id" : 1,
+		"first_name" : "MARTHA",
+		"last_name" : "GONZALEZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 39,
+		"customer_id" : 39,
+		"store_id" : 1,
+		"first_name" : "DEBRA",
+		"last_name" : "NELSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 40,
+		"customer_id" : 40,
+		"store_id" : 2,
+		"first_name" : "AMANDA",
+		"last_name" : "CARTER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 41,
+		"customer_id" : 41,
+		"store_id" : 1,
+		"first_name" : "STEPHANIE",
+		"last_name" : "MITCHELL",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 42,
+		"customer_id" : 42,
+		"store_id" : 2,
+		"first_name" : "CAROLYN",
+		"last_name" : "PEREZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 43,
+		"customer_id" : 43,
+		"store_id" : 2,
+		"first_name" : "CHRISTINE",
+		"last_name" : "ROBERTS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 44,
+		"customer_id" : 44,
+		"store_id" : 1,
+		"first_name" : "MARIE",
+		"last_name" : "TURNER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 45,
+		"customer_id" : 45,
+		"store_id" : 1,
+		"first_name" : "JANET",
+		"last_name" : "PHILLIPS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 46,
+		"customer_id" : 46,
+		"store_id" : 2,
+		"first_name" : "CATHERINE",
+		"last_name" : "CAMPBELL",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 47,
+		"customer_id" : 47,
+		"store_id" : 1,
+		"first_name" : "FRANCES",
+		"last_name" : "PARKER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 48,
+		"customer_id" : 48,
+		"store_id" : 1,
+		"first_name" : "ANN",
+		"last_name" : "EVANS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 49,
+		"customer_id" : 49,
+		"store_id" : 2,
+		"first_name" : "JOYCE",
+		"last_name" : "EDWARDS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 50,
+		"customer_id" : 50,
+		"store_id" : 1,
+		"first_name" : "DIANE",
+		"last_name" : "COLLINS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 51,
+		"customer_id" : 51,
+		"store_id" : 1,
+		"first_name" : "ALICE",
+		"last_name" : "STEWART",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 52,
+		"customer_id" : 52,
+		"store_id" : 1,
+		"first_name" : "JULIE",
+		"last_name" : "SANCHEZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 53,
+		"customer_id" : 53,
+		"store_id" : 1,
+		"first_name" : "HEATHER",
+		"last_name" : "MORRIS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 54,
+		"customer_id" : 54,
+		"store_id" : 1,
+		"first_name" : "TERESA",
+		"last_name" : "ROGERS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 55,
+		"customer_id" : 55,
+		"store_id" : 2,
+		"first_name" : "DORIS",
+		"last_name" : "REED",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 56,
+		"customer_id" : 56,
+		"store_id" : 1,
+		"first_name" : "GLORIA",
+		"last_name" : "COOK",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 57,
+		"customer_id" : 57,
+		"store_id" : 2,
+		"first_name" : "EVELYN",
+		"last_name" : "MORGAN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 58,
+		"customer_id" : 58,
+		"store_id" : 1,
+		"first_name" : "JEAN",
+		"last_name" : "BELL",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 59,
+		"customer_id" : 59,
+		"store_id" : 1,
+		"first_name" : "CHERYL",
+		"last_name" : "MURPHY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 60,
+		"customer_id" : 60,
+		"store_id" : 1,
+		"first_name" : "MILDRED",
+		"last_name" : "BAILEY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 61,
+		"customer_id" : 61,
+		"store_id" : 2,
+		"first_name" : "KATHERINE",
+		"last_name" : "RIVERA",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 62,
+		"customer_id" : 62,
+		"store_id" : 1,
+		"first_name" : "JOAN",
+		"last_name" : "COOPER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 63,
+		"customer_id" : 63,
+		"store_id" : 1,
+		"first_name" : "ASHLEY",
+		"last_name" : "RICHARDSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 64,
+		"customer_id" : 64,
+		"store_id" : 2,
+		"first_name" : "JUDITH",
+		"last_name" : "COX",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 65,
+		"customer_id" : 65,
+		"store_id" : 2,
+		"first_name" : "ROSE",
+		"last_name" : "HOWARD",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 66,
+		"customer_id" : 66,
+		"store_id" : 2,
+		"first_name" : "JANICE",
+		"last_name" : "WARD",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 67,
+		"customer_id" : 67,
+		"store_id" : 1,
+		"first_name" : "KELLY",
+		"last_name" : "TORRES",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 68,
+		"customer_id" : 68,
+		"store_id" : 1,
+		"first_name" : "NICOLE",
+		"last_name" : "PETERSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 69,
+		"customer_id" : 69,
+		"store_id" : 2,
+		"first_name" : "JUDY",
+		"last_name" : "GRAY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 70,
+		"customer_id" : 70,
+		"store_id" : 2,
+		"first_name" : "CHRISTINA",
+		"last_name" : "RAMIREZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 71,
+		"customer_id" : 71,
+		"store_id" : 1,
+		"first_name" : "KATHY",
+		"last_name" : "JAMES",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 72,
+		"customer_id" : 72,
+		"store_id" : 2,
+		"first_name" : "THERESA",
+		"last_name" : "WATSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 73,
+		"customer_id" : 73,
+		"store_id" : 2,
+		"first_name" : "BEVERLY",
+		"last_name" : "BROOKS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 74,
+		"customer_id" : 74,
+		"store_id" : 1,
+		"first_name" : "DENISE",
+		"last_name" : "KELLY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 75,
+		"customer_id" : 75,
+		"store_id" : 2,
+		"first_name" : "TAMMY",
+		"last_name" : "SANDERS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 76,
+		"customer_id" : 76,
+		"store_id" : 2,
+		"first_name" : "IRENE",
+		"last_name" : "PRICE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 77,
+		"customer_id" : 77,
+		"store_id" : 2,
+		"first_name" : "JANE",
+		"last_name" : "BENNETT",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 78,
+		"customer_id" : 78,
+		"store_id" : 1,
+		"first_name" : "LORI",
+		"last_name" : "WOOD",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 79,
+		"customer_id" : 79,
+		"store_id" : 1,
+		"first_name" : "RACHEL",
+		"last_name" : "BARNES",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 80,
+		"customer_id" : 80,
+		"store_id" : 1,
+		"first_name" : "MARILYN",
+		"last_name" : "ROSS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 81,
+		"customer_id" : 81,
+		"store_id" : 1,
+		"first_name" : "ANDREA",
+		"last_name" : "HENDERSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 82,
+		"customer_id" : 82,
+		"store_id" : 1,
+		"first_name" : "KATHRYN",
+		"last_name" : "COLEMAN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 83,
+		"customer_id" : 83,
+		"store_id" : 1,
+		"first_name" : "LOUISE",
+		"last_name" : "JENKINS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 84,
+		"customer_id" : 84,
+		"store_id" : 2,
+		"first_name" : "SARA",
+		"last_name" : "PERRY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 85,
+		"customer_id" : 85,
+		"store_id" : 2,
+		"first_name" : "ANNE",
+		"last_name" : "POWELL",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 86,
+		"customer_id" : 86,
+		"store_id" : 2,
+		"first_name" : "JACQUELINE",
+		"last_name" : "LONG",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 87,
+		"customer_id" : 87,
+		"store_id" : 1,
+		"first_name" : "WANDA",
+		"last_name" : "PATTERSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 88,
+		"customer_id" : 88,
+		"store_id" : 2,
+		"first_name" : "BONNIE",
+		"last_name" : "HUGHES",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 89,
+		"customer_id" : 89,
+		"store_id" : 1,
+		"first_name" : "JULIA",
+		"last_name" : "FLORES",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 90,
+		"customer_id" : 90,
+		"store_id" : 2,
+		"first_name" : "RUBY",
+		"last_name" : "WASHINGTON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 91,
+		"customer_id" : 91,
+		"store_id" : 2,
+		"first_name" : "LOIS",
+		"last_name" : "BUTLER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 92,
+		"customer_id" : 92,
+		"store_id" : 2,
+		"first_name" : "TINA",
+		"last_name" : "SIMMONS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 93,
+		"customer_id" : 93,
+		"store_id" : 1,
+		"first_name" : "PHYLLIS",
+		"last_name" : "FOSTER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 94,
+		"customer_id" : 94,
+		"store_id" : 1,
+		"first_name" : "NORMA",
+		"last_name" : "GONZALES",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 95,
+		"customer_id" : 95,
+		"store_id" : 2,
+		"first_name" : "PAULA",
+		"last_name" : "BRYANT",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 96,
+		"customer_id" : 96,
+		"store_id" : 1,
+		"first_name" : "DIANA",
+		"last_name" : "ALEXANDER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 97,
+		"customer_id" : 97,
+		"store_id" : 2,
+		"first_name" : "ANNIE",
+		"last_name" : "RUSSELL",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 98,
+		"customer_id" : 98,
+		"store_id" : 1,
+		"first_name" : "LILLIAN",
+		"last_name" : "GRIFFIN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 99,
+		"customer_id" : 99,
+		"store_id" : 2,
+		"first_name" : "EMILY",
+		"last_name" : "DIAZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 100,
+		"customer_id" : 100,
+		"store_id" : 1,
+		"first_name" : "ROBIN",
+		"last_name" : "HAYES",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 101,
+		"customer_id" : 101,
+		"store_id" : 1,
+		"first_name" : "PEGGY",
+		"last_name" : "MYERS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 102,
+		"customer_id" : 102,
+		"store_id" : 1,
+		"first_name" : "CRYSTAL",
+		"last_name" : "FORD",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 103,
+		"customer_id" : 103,
+		"store_id" : 1,
+		"first_name" : "GLADYS",
+		"last_name" : "HAMILTON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 104,
+		"customer_id" : 104,
+		"store_id" : 1,
+		"first_name" : "RITA",
+		"last_name" : "GRAHAM",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 105,
+		"customer_id" : 105,
+		"store_id" : 1,
+		"first_name" : "DAWN",
+		"last_name" : "SULLIVAN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 106,
+		"customer_id" : 106,
+		"store_id" : 1,
+		"first_name" : "CONNIE",
+		"last_name" : "WALLACE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 107,
+		"customer_id" : 107,
+		"store_id" : 1,
+		"first_name" : "FLORENCE",
+		"last_name" : "WOODS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 108,
+		"customer_id" : 108,
+		"store_id" : 1,
+		"first_name" : "TRACY",
+		"last_name" : "COLE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 109,
+		"customer_id" : 109,
+		"store_id" : 2,
+		"first_name" : "EDNA",
+		"last_name" : "WEST",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 110,
+		"customer_id" : 110,
+		"store_id" : 2,
+		"first_name" : "TIFFANY",
+		"last_name" : "JORDAN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 111,
+		"customer_id" : 111,
+		"store_id" : 1,
+		"first_name" : "CARMEN",
+		"last_name" : "OWENS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 112,
+		"customer_id" : 112,
+		"store_id" : 2,
+		"first_name" : "ROSA",
+		"last_name" : "REYNOLDS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 113,
+		"customer_id" : 113,
+		"store_id" : 2,
+		"first_name" : "CINDY",
+		"last_name" : "FISHER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 114,
+		"customer_id" : 114,
+		"store_id" : 2,
+		"first_name" : "GRACE",
+		"last_name" : "ELLIS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 115,
+		"customer_id" : 115,
+		"store_id" : 1,
+		"first_name" : "WENDY",
+		"last_name" : "HARRISON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 116,
+		"customer_id" : 116,
+		"store_id" : 1,
+		"first_name" : "VICTORIA",
+		"last_name" : "GIBSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 117,
+		"customer_id" : 117,
+		"store_id" : 1,
+		"first_name" : "EDITH",
+		"last_name" : "MCDONALD",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 118,
+		"customer_id" : 118,
+		"store_id" : 1,
+		"first_name" : "KIM",
+		"last_name" : "CRUZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 119,
+		"customer_id" : 119,
+		"store_id" : 1,
+		"first_name" : "SHERRY",
+		"last_name" : "MARSHALL",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 120,
+		"customer_id" : 120,
+		"store_id" : 2,
+		"first_name" : "SYLVIA",
+		"last_name" : "ORTIZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 121,
+		"customer_id" : 121,
+		"store_id" : 1,
+		"first_name" : "JOSEPHINE",
+		"last_name" : "GOMEZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 122,
+		"customer_id" : 122,
+		"store_id" : 1,
+		"first_name" : "THELMA",
+		"last_name" : "MURRAY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 123,
+		"customer_id" : 123,
+		"store_id" : 2,
+		"first_name" : "SHANNON",
+		"last_name" : "FREEMAN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 124,
+		"customer_id" : 124,
+		"store_id" : 1,
+		"first_name" : "SHEILA",
+		"last_name" : "WELLS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 125,
+		"customer_id" : 125,
+		"store_id" : 1,
+		"first_name" : "ETHEL",
+		"last_name" : "WEBB",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 126,
+		"customer_id" : 126,
+		"store_id" : 1,
+		"first_name" : "ELLEN",
+		"last_name" : "SIMPSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 127,
+		"customer_id" : 127,
+		"store_id" : 2,
+		"first_name" : "ELAINE",
+		"last_name" : "STEVENS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 128,
+		"customer_id" : 128,
+		"store_id" : 1,
+		"first_name" : "MARJORIE",
+		"last_name" : "TUCKER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 129,
+		"customer_id" : 129,
+		"store_id" : 1,
+		"first_name" : "CARRIE",
+		"last_name" : "PORTER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 130,
+		"customer_id" : 130,
+		"store_id" : 1,
+		"first_name" : "CHARLOTTE",
+		"last_name" : "HUNTER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 131,
+		"customer_id" : 131,
+		"store_id" : 2,
+		"first_name" : "MONICA",
+		"last_name" : "HICKS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 132,
+		"customer_id" : 132,
+		"store_id" : 2,
+		"first_name" : "ESTHER",
+		"last_name" : "CRAWFORD",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 133,
+		"customer_id" : 133,
+		"store_id" : 1,
+		"first_name" : "PAULINE",
+		"last_name" : "HENRY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 134,
+		"customer_id" : 134,
+		"store_id" : 1,
+		"first_name" : "EMMA",
+		"last_name" : "BOYD",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 135,
+		"customer_id" : 135,
+		"store_id" : 2,
+		"first_name" : "JUANITA",
+		"last_name" : "MASON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 136,
+		"customer_id" : 136,
+		"store_id" : 2,
+		"first_name" : "ANITA",
+		"last_name" : "MORALES",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 137,
+		"customer_id" : 137,
+		"store_id" : 2,
+		"first_name" : "RHONDA",
+		"last_name" : "KENNEDY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 138,
+		"customer_id" : 138,
+		"store_id" : 1,
+		"first_name" : "HAZEL",
+		"last_name" : "WARREN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 139,
+		"customer_id" : 139,
+		"store_id" : 1,
+		"first_name" : "AMBER",
+		"last_name" : "DIXON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 140,
+		"customer_id" : 140,
+		"store_id" : 1,
+		"first_name" : "EVA",
+		"last_name" : "RAMOS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 141,
+		"customer_id" : 141,
+		"store_id" : 1,
+		"first_name" : "DEBBIE",
+		"last_name" : "REYES",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 142,
+		"customer_id" : 142,
+		"store_id" : 1,
+		"first_name" : "APRIL",
+		"last_name" : "BURNS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 143,
+		"customer_id" : 143,
+		"store_id" : 1,
+		"first_name" : "LESLIE",
+		"last_name" : "GORDON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 144,
+		"customer_id" : 144,
+		"store_id" : 1,
+		"first_name" : "CLARA",
+		"last_name" : "SHAW",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 145,
+		"customer_id" : 145,
+		"store_id" : 1,
+		"first_name" : "LUCILLE",
+		"last_name" : "HOLMES",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 146,
+		"customer_id" : 146,
+		"store_id" : 1,
+		"first_name" : "JAMIE",
+		"last_name" : "RICE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 147,
+		"customer_id" : 147,
+		"store_id" : 2,
+		"first_name" : "JOANNE",
+		"last_name" : "ROBERTSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 148,
+		"customer_id" : 148,
+		"store_id" : 1,
+		"first_name" : "ELEANOR",
+		"last_name" : "HUNT",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 149,
+		"customer_id" : 149,
+		"store_id" : 1,
+		"first_name" : "VALERIE",
+		"last_name" : "BLACK",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 150,
+		"customer_id" : 150,
+		"store_id" : 2,
+		"first_name" : "DANIELLE",
+		"last_name" : "DANIELS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 151,
+		"customer_id" : 151,
+		"store_id" : 2,
+		"first_name" : "MEGAN",
+		"last_name" : "PALMER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 152,
+		"customer_id" : 152,
+		"store_id" : 1,
+		"first_name" : "ALICIA",
+		"last_name" : "MILLS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 153,
+		"customer_id" : 153,
+		"store_id" : 2,
+		"first_name" : "SUZANNE",
+		"last_name" : "NICHOLS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 154,
+		"customer_id" : 154,
+		"store_id" : 2,
+		"first_name" : "MICHELE",
+		"last_name" : "GRANT",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 155,
+		"customer_id" : 155,
+		"store_id" : 1,
+		"first_name" : "GAIL",
+		"last_name" : "KNIGHT",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 156,
+		"customer_id" : 156,
+		"store_id" : 1,
+		"first_name" : "BERTHA",
+		"last_name" : "FERGUSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 157,
+		"customer_id" : 157,
+		"store_id" : 2,
+		"first_name" : "DARLENE",
+		"last_name" : "ROSE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 158,
+		"customer_id" : 158,
+		"store_id" : 1,
+		"first_name" : "VERONICA",
+		"last_name" : "STONE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 159,
+		"customer_id" : 159,
+		"store_id" : 1,
+		"first_name" : "JILL",
+		"last_name" : "HAWKINS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 160,
+		"customer_id" : 160,
+		"store_id" : 2,
+		"first_name" : "ERIN",
+		"last_name" : "DUNN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 161,
+		"customer_id" : 161,
+		"store_id" : 1,
+		"first_name" : "GERALDINE",
+		"last_name" : "PERKINS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 162,
+		"customer_id" : 162,
+		"store_id" : 2,
+		"first_name" : "LAUREN",
+		"last_name" : "HUDSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 163,
+		"customer_id" : 163,
+		"store_id" : 1,
+		"first_name" : "CATHY",
+		"last_name" : "SPENCER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 164,
+		"customer_id" : 164,
+		"store_id" : 2,
+		"first_name" : "JOANN",
+		"last_name" : "GARDNER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 165,
+		"customer_id" : 165,
+		"store_id" : 2,
+		"first_name" : "LORRAINE",
+		"last_name" : "STEPHENS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 166,
+		"customer_id" : 166,
+		"store_id" : 1,
+		"first_name" : "LYNN",
+		"last_name" : "PAYNE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 167,
+		"customer_id" : 167,
+		"store_id" : 2,
+		"first_name" : "SALLY",
+		"last_name" : "PIERCE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 168,
+		"customer_id" : 168,
+		"store_id" : 1,
+		"first_name" : "REGINA",
+		"last_name" : "BERRY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 169,
+		"customer_id" : 169,
+		"store_id" : 2,
+		"first_name" : "ERICA",
+		"last_name" : "MATTHEWS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 170,
+		"customer_id" : 170,
+		"store_id" : 1,
+		"first_name" : "BEATRICE",
+		"last_name" : "ARNOLD",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 171,
+		"customer_id" : 171,
+		"store_id" : 2,
+		"first_name" : "DOLORES",
+		"last_name" : "WAGNER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 172,
+		"customer_id" : 172,
+		"store_id" : 1,
+		"first_name" : "BERNICE",
+		"last_name" : "WILLIS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 173,
+		"customer_id" : 173,
+		"store_id" : 1,
+		"first_name" : "AUDREY",
+		"last_name" : "RAY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 174,
+		"customer_id" : 174,
+		"store_id" : 2,
+		"first_name" : "YVONNE",
+		"last_name" : "WATKINS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 175,
+		"customer_id" : 175,
+		"store_id" : 1,
+		"first_name" : "ANNETTE",
+		"last_name" : "OLSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 176,
+		"customer_id" : 176,
+		"store_id" : 1,
+		"first_name" : "JUNE",
+		"last_name" : "CARROLL",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 177,
+		"customer_id" : 177,
+		"store_id" : 2,
+		"first_name" : "SAMANTHA",
+		"last_name" : "DUNCAN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 178,
+		"customer_id" : 178,
+		"store_id" : 2,
+		"first_name" : "MARION",
+		"last_name" : "SNYDER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 179,
+		"customer_id" : 179,
+		"store_id" : 1,
+		"first_name" : "DANA",
+		"last_name" : "HART",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 180,
+		"customer_id" : 180,
+		"store_id" : 2,
+		"first_name" : "STACY",
+		"last_name" : "CUNNINGHAM",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 181,
+		"customer_id" : 181,
+		"store_id" : 2,
+		"first_name" : "ANA",
+		"last_name" : "BRADLEY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 182,
+		"customer_id" : 182,
+		"store_id" : 1,
+		"first_name" : "RENEE",
+		"last_name" : "LANE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 183,
+		"customer_id" : 183,
+		"store_id" : 2,
+		"first_name" : "IDA",
+		"last_name" : "ANDREWS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 184,
+		"customer_id" : 184,
+		"store_id" : 1,
+		"first_name" : "VIVIAN",
+		"last_name" : "RUIZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 185,
+		"customer_id" : 185,
+		"store_id" : 1,
+		"first_name" : "ROBERTA",
+		"last_name" : "HARPER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 186,
+		"customer_id" : 186,
+		"store_id" : 2,
+		"first_name" : "HOLLY",
+		"last_name" : "FOX",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 187,
+		"customer_id" : 187,
+		"store_id" : 2,
+		"first_name" : "BRITTANY",
+		"last_name" : "RILEY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 188,
+		"customer_id" : 188,
+		"store_id" : 1,
+		"first_name" : "MELANIE",
+		"last_name" : "ARMSTRONG",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 189,
+		"customer_id" : 189,
+		"store_id" : 1,
+		"first_name" : "LORETTA",
+		"last_name" : "CARPENTER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 190,
+		"customer_id" : 190,
+		"store_id" : 2,
+		"first_name" : "YOLANDA",
+		"last_name" : "WEAVER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 191,
+		"customer_id" : 191,
+		"store_id" : 1,
+		"first_name" : "JEANETTE",
+		"last_name" : "GREENE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 192,
+		"customer_id" : 192,
+		"store_id" : 1,
+		"first_name" : "LAURIE",
+		"last_name" : "LAWRENCE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 193,
+		"customer_id" : 193,
+		"store_id" : 2,
+		"first_name" : "KATIE",
+		"last_name" : "ELLIOTT",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 194,
+		"customer_id" : 194,
+		"store_id" : 2,
+		"first_name" : "KRISTEN",
+		"last_name" : "CHAVEZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 195,
+		"customer_id" : 195,
+		"store_id" : 1,
+		"first_name" : "VANESSA",
+		"last_name" : "SIMS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 196,
+		"customer_id" : 196,
+		"store_id" : 1,
+		"first_name" : "ALMA",
+		"last_name" : "AUSTIN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 197,
+		"customer_id" : 197,
+		"store_id" : 2,
+		"first_name" : "SUE",
+		"last_name" : "PETERS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 198,
+		"customer_id" : 198,
+		"store_id" : 2,
+		"first_name" : "ELSIE",
+		"last_name" : "KELLEY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 199,
+		"customer_id" : 199,
+		"store_id" : 2,
+		"first_name" : "BETH",
+		"last_name" : "FRANKLIN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 200,
+		"customer_id" : 200,
+		"store_id" : 2,
+		"first_name" : "JEANNE",
+		"last_name" : "LAWSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 201,
+		"customer_id" : 201,
+		"store_id" : 1,
+		"first_name" : "VICKI",
+		"last_name" : "FIELDS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 202,
+		"customer_id" : 202,
+		"store_id" : 2,
+		"first_name" : "CARLA",
+		"last_name" : "GUTIERREZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 203,
+		"customer_id" : 203,
+		"store_id" : 1,
+		"first_name" : "TARA",
+		"last_name" : "RYAN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 204,
+		"customer_id" : 204,
+		"store_id" : 1,
+		"first_name" : "ROSEMARY",
+		"last_name" : "SCHMIDT",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 205,
+		"customer_id" : 205,
+		"store_id" : 2,
+		"first_name" : "EILEEN",
+		"last_name" : "CARR",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 206,
+		"customer_id" : 206,
+		"store_id" : 1,
+		"first_name" : "TERRI",
+		"last_name" : "VASQUEZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 207,
+		"customer_id" : 207,
+		"store_id" : 1,
+		"first_name" : "GERTRUDE",
+		"last_name" : "CASTILLO",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 208,
+		"customer_id" : 208,
+		"store_id" : 1,
+		"first_name" : "LUCY",
+		"last_name" : "WHEELER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 209,
+		"customer_id" : 209,
+		"store_id" : 2,
+		"first_name" : "TONYA",
+		"last_name" : "CHAPMAN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 210,
+		"customer_id" : 210,
+		"store_id" : 2,
+		"first_name" : "ELLA",
+		"last_name" : "OLIVER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 211,
+		"customer_id" : 211,
+		"store_id" : 1,
+		"first_name" : "STACEY",
+		"last_name" : "MONTGOMERY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 212,
+		"customer_id" : 212,
+		"store_id" : 2,
+		"first_name" : "WILMA",
+		"last_name" : "RICHARDS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 213,
+		"customer_id" : 213,
+		"store_id" : 1,
+		"first_name" : "GINA",
+		"last_name" : "WILLIAMSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 214,
+		"customer_id" : 214,
+		"store_id" : 1,
+		"first_name" : "KRISTIN",
+		"last_name" : "JOHNSTON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 215,
+		"customer_id" : 215,
+		"store_id" : 2,
+		"first_name" : "JESSIE",
+		"last_name" : "BANKS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 216,
+		"customer_id" : 216,
+		"store_id" : 1,
+		"first_name" : "NATALIE",
+		"last_name" : "MEYER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 217,
+		"customer_id" : 217,
+		"store_id" : 2,
+		"first_name" : "AGNES",
+		"last_name" : "BISHOP",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 218,
+		"customer_id" : 218,
+		"store_id" : 1,
+		"first_name" : "VERA",
+		"last_name" : "MCCOY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 219,
+		"customer_id" : 219,
+		"store_id" : 2,
+		"first_name" : "WILLIE",
+		"last_name" : "HOWELL",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 220,
+		"customer_id" : 220,
+		"store_id" : 2,
+		"first_name" : "CHARLENE",
+		"last_name" : "ALVAREZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 221,
+		"customer_id" : 221,
+		"store_id" : 1,
+		"first_name" : "BESSIE",
+		"last_name" : "MORRISON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 222,
+		"customer_id" : 222,
+		"store_id" : 2,
+		"first_name" : "DELORES",
+		"last_name" : "HANSEN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 223,
+		"customer_id" : 223,
+		"store_id" : 1,
+		"first_name" : "MELINDA",
+		"last_name" : "FERNANDEZ",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 224,
+		"customer_id" : 224,
+		"store_id" : 2,
+		"first_name" : "PEARL",
+		"last_name" : "GARZA",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 225,
+		"customer_id" : 225,
+		"store_id" : 1,
+		"first_name" : "ARLENE",
+		"last_name" : "HARVEY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 226,
+		"customer_id" : 226,
+		"store_id" : 2,
+		"first_name" : "MAUREEN",
+		"last_name" : "LITTLE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 227,
+		"customer_id" : 227,
+		"store_id" : 1,
+		"first_name" : "COLLEEN",
+		"last_name" : "BURTON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 228,
+		"customer_id" : 228,
+		"store_id" : 2,
+		"first_name" : "ALLISON",
+		"last_name" : "STANLEY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 229,
+		"customer_id" : 229,
+		"store_id" : 1,
+		"first_name" : "TAMARA",
+		"last_name" : "NGUYEN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 230,
+		"customer_id" : 230,
+		"store_id" : 2,
+		"first_name" : "JOY",
+		"last_name" : "GEORGE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 231,
+		"customer_id" : 231,
+		"store_id" : 1,
+		"first_name" : "GEORGIA",
+		"last_name" : "JACOBS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 232,
+		"customer_id" : 232,
+		"store_id" : 2,
+		"first_name" : "CONSTANCE",
+		"last_name" : "REID",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 233,
+		"customer_id" : 233,
+		"store_id" : 2,
+		"first_name" : "LILLIE",
+		"last_name" : "KIM",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 234,
+		"customer_id" : 234,
+		"store_id" : 1,
+		"first_name" : "CLAUDIA",
+		"last_name" : "FULLER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 235,
+		"customer_id" : 235,
+		"store_id" : 1,
+		"first_name" : "JACKIE",
+		"last_name" : "LYNCH",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 236,
+		"customer_id" : 236,
+		"store_id" : 1,
+		"first_name" : "MARCIA",
+		"last_name" : "DEAN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 237,
+		"customer_id" : 237,
+		"store_id" : 1,
+		"first_name" : "TANYA",
+		"last_name" : "GILBERT",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 238,
+		"customer_id" : 238,
+		"store_id" : 1,
+		"first_name" : "NELLIE",
+		"last_name" : "GARRETT",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 239,
+		"customer_id" : 239,
+		"store_id" : 2,
+		"first_name" : "MINNIE",
+		"last_name" : "ROMERO",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 240,
+		"customer_id" : 240,
+		"store_id" : 1,
+		"first_name" : "MARLENE",
+		"last_name" : "WELCH",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 241,
+		"customer_id" : 241,
+		"store_id" : 2,
+		"first_name" : "HEIDI",
+		"last_name" : "LARSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 242,
+		"customer_id" : 242,
+		"store_id" : 1,
+		"first_name" : "GLENDA",
+		"last_name" : "FRAZIER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 243,
+		"customer_id" : 243,
+		"store_id" : 1,
+		"first_name" : "LYDIA",
+		"last_name" : "BURKE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 244,
+		"customer_id" : 244,
+		"store_id" : 2,
+		"first_name" : "VIOLA",
+		"last_name" : "HANSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 245,
+		"customer_id" : 245,
+		"store_id" : 1,
+		"first_name" : "COURTNEY",
+		"last_name" : "DAY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 246,
+		"customer_id" : 246,
+		"store_id" : 1,
+		"first_name" : "MARIAN",
+		"last_name" : "MENDOZA",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 247,
+		"customer_id" : 247,
+		"store_id" : 1,
+		"first_name" : "STELLA",
+		"last_name" : "MORENO",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 248,
+		"customer_id" : 248,
+		"store_id" : 1,
+		"first_name" : "CAROLINE",
+		"last_name" : "BOWMAN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 249,
+		"customer_id" : 249,
+		"store_id" : 2,
+		"first_name" : "DORA",
+		"last_name" : "MEDINA",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 250,
+		"customer_id" : 250,
+		"store_id" : 2,
+		"first_name" : "JO",
+		"last_name" : "FOWLER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 251,
+		"customer_id" : 251,
+		"store_id" : 2,
+		"first_name" : "VICKIE",
+		"last_name" : "BREWER",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 252,
+		"customer_id" : 252,
+		"store_id" : 2,
+		"first_name" : "MATTIE",
+		"last_name" : "HOFFMAN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 253,
+		"customer_id" : 253,
+		"store_id" : 1,
+		"first_name" : "TERRY",
+		"last_name" : "CARLSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 254,
+		"customer_id" : 254,
+		"store_id" : 2,
+		"first_name" : "MAXINE",
+		"last_name" : "SILVA",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 255,
+		"customer_id" : 255,
+		"store_id" : 2,
+		"first_name" : "IRMA",
+		"last_name" : "PEARSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 256,
+		"customer_id" : 256,
+		"store_id" : 2,
+		"first_name" : "MABEL",
+		"last_name" : "HOLLAND",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 257,
+		"customer_id" : 257,
+		"store_id" : 2,
+		"first_name" : "MARSHA",
+		"last_name" : "DOUGLAS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 258,
+		"customer_id" : 258,
+		"store_id" : 1,
+		"first_name" : "MYRTLE",
+		"last_name" : "FLEMING",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 259,
+		"customer_id" : 259,
+		"store_id" : 2,
+		"first_name" : "LENA",
+		"last_name" : "JENSEN",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 260,
+		"customer_id" : 260,
+		"store_id" : 1,
+		"first_name" : "CHRISTY",
+		"last_name" : "VARGAS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 261,
+		"customer_id" : 261,
+		"store_id" : 1,
+		"first_name" : "DEANNA",
+		"last_name" : "BYRD",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 262,
+		"customer_id" : 262,
+		"store_id" : 2,
+		"first_name" : "PATSY",
+		"last_name" : "DAVIDSON",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 263,
+		"customer_id" : 263,
+		"store_id" : 1,
+		"first_name" : "HILDA",
+		"last_name" : "HOPKINS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 264,
+		"customer_id" : 264,
+		"store_id" : 1,
+		"first_name" : "GWENDOLYN",
+		"last_name" : "MAY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 265,
+		"customer_id" : 265,
+		"store_id" : 2,
+		"first_name" : "JENNIE",
+		"last_name" : "TERRY",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 266,
+		"customer_id" : 266,
+		"store_id" : 2,
+		"first_name" : "NORA",
+		"last_name" : "HERRERA",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 267,
+		"customer_id" : 267,
+		"store_id" : 1,
+		"first_name" : "MARGIE",
+		"last_name" : "WADE",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 268,
+		"customer_id" : 268,
+		"store_id" : 1,
+		"first_name" : "NINA",
+		"last_name" : "SOTO",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 269,
+		"customer_id" : 269,
+		"store_id" : 1,
+		"first_name" : "CASSANDRA",
+		"last_name" : "WALTERS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 270,
+		"customer_id" : 270,
+		"store_id" : 1,
+		"first_name" : "LEAH",
+		"last_name" : "CURTIS",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 271,
+		"customer_id" : 271,
+		"store_id" : 1,
+		"first_name" : "PENNY",
+		"last_name" : "NEAL",
+		"create_date" : "2006-02-14 22:04:36"
+	},
+	{
+		"customer_key" : 272,
+		"customer_id" : 272,
+		"store_id" : 1,
+		"first_name" : "KAY",
+		"last_name" : "CALDWELL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 273,
+		"customer_id" : 273,
+		"store_id" : 2,
+		"first_name" : "PRISCILLA",
+		"last_name" : "LOWE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 274,
+		"customer_id" : 274,
+		"store_id" : 1,
+		"first_name" : "NAOMI",
+		"last_name" : "JENNINGS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 275,
+		"customer_id" : 275,
+		"store_id" : 2,
+		"first_name" : "CAROLE",
+		"last_name" : "BARNETT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 276,
+		"customer_id" : 276,
+		"store_id" : 1,
+		"first_name" : "BRANDY",
+		"last_name" : "GRAVES",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 277,
+		"customer_id" : 277,
+		"store_id" : 2,
+		"first_name" : "OLGA",
+		"last_name" : "JIMENEZ",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 278,
+		"customer_id" : 278,
+		"store_id" : 2,
+		"first_name" : "BILLIE",
+		"last_name" : "HORTON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 279,
+		"customer_id" : 279,
+		"store_id" : 2,
+		"first_name" : "DIANNE",
+		"last_name" : "SHELTON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 280,
+		"customer_id" : 280,
+		"store_id" : 2,
+		"first_name" : "TRACEY",
+		"last_name" : "BARRETT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 281,
+		"customer_id" : 281,
+		"store_id" : 2,
+		"first_name" : "LEONA",
+		"last_name" : "OBRIEN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 282,
+		"customer_id" : 282,
+		"store_id" : 2,
+		"first_name" : "JENNY",
+		"last_name" : "CASTRO",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 283,
+		"customer_id" : 283,
+		"store_id" : 1,
+		"first_name" : "FELICIA",
+		"last_name" : "SUTTON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 284,
+		"customer_id" : 284,
+		"store_id" : 1,
+		"first_name" : "SONIA",
+		"last_name" : "GREGORY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 285,
+		"customer_id" : 285,
+		"store_id" : 1,
+		"first_name" : "MIRIAM",
+		"last_name" : "MCKINNEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 286,
+		"customer_id" : 286,
+		"store_id" : 1,
+		"first_name" : "VELMA",
+		"last_name" : "LUCAS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 287,
+		"customer_id" : 287,
+		"store_id" : 2,
+		"first_name" : "BECKY",
+		"last_name" : "MILES",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 288,
+		"customer_id" : 288,
+		"store_id" : 1,
+		"first_name" : "BOBBIE",
+		"last_name" : "CRAIG",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 289,
+		"customer_id" : 289,
+		"store_id" : 1,
+		"first_name" : "VIOLET",
+		"last_name" : "RODRIQUEZ",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 290,
+		"customer_id" : 290,
+		"store_id" : 1,
+		"first_name" : "KRISTINA",
+		"last_name" : "CHAMBERS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 291,
+		"customer_id" : 291,
+		"store_id" : 1,
+		"first_name" : "TONI",
+		"last_name" : "HOLT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 292,
+		"customer_id" : 292,
+		"store_id" : 2,
+		"first_name" : "MISTY",
+		"last_name" : "LAMBERT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 293,
+		"customer_id" : 293,
+		"store_id" : 2,
+		"first_name" : "MAE",
+		"last_name" : "FLETCHER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 294,
+		"customer_id" : 294,
+		"store_id" : 2,
+		"first_name" : "SHELLY",
+		"last_name" : "WATTS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 295,
+		"customer_id" : 295,
+		"store_id" : 1,
+		"first_name" : "DAISY",
+		"last_name" : "BATES",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 296,
+		"customer_id" : 296,
+		"store_id" : 2,
+		"first_name" : "RAMONA",
+		"last_name" : "HALE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 297,
+		"customer_id" : 297,
+		"store_id" : 1,
+		"first_name" : "SHERRI",
+		"last_name" : "RHODES",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 298,
+		"customer_id" : 298,
+		"store_id" : 1,
+		"first_name" : "ERIKA",
+		"last_name" : "PENA",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 299,
+		"customer_id" : 299,
+		"store_id" : 2,
+		"first_name" : "JAMES",
+		"last_name" : "GANNON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 300,
+		"customer_id" : 300,
+		"store_id" : 1,
+		"first_name" : "JOHN",
+		"last_name" : "FARNSWORTH",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 301,
+		"customer_id" : 301,
+		"store_id" : 2,
+		"first_name" : "ROBERT",
+		"last_name" : "BAUGHMAN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 302,
+		"customer_id" : 302,
+		"store_id" : 1,
+		"first_name" : "MICHAEL",
+		"last_name" : "SILVERMAN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 303,
+		"customer_id" : 303,
+		"store_id" : 2,
+		"first_name" : "WILLIAM",
+		"last_name" : "SATTERFIELD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 304,
+		"customer_id" : 304,
+		"store_id" : 2,
+		"first_name" : "DAVID",
+		"last_name" : "ROYAL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 305,
+		"customer_id" : 305,
+		"store_id" : 1,
+		"first_name" : "RICHARD",
+		"last_name" : "MCCRARY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 306,
+		"customer_id" : 306,
+		"store_id" : 1,
+		"first_name" : "CHARLES",
+		"last_name" : "KOWALSKI",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 307,
+		"customer_id" : 307,
+		"store_id" : 2,
+		"first_name" : "JOSEPH",
+		"last_name" : "JOY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 308,
+		"customer_id" : 308,
+		"store_id" : 1,
+		"first_name" : "THOMAS",
+		"last_name" : "GRIGSBY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 309,
+		"customer_id" : 309,
+		"store_id" : 1,
+		"first_name" : "CHRISTOPHER",
+		"last_name" : "GRECO",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 310,
+		"customer_id" : 310,
+		"store_id" : 2,
+		"first_name" : "DANIEL",
+		"last_name" : "CABRAL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 311,
+		"customer_id" : 311,
+		"store_id" : 2,
+		"first_name" : "PAUL",
+		"last_name" : "TROUT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 312,
+		"customer_id" : 312,
+		"store_id" : 2,
+		"first_name" : "MARK",
+		"last_name" : "RINEHART",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 313,
+		"customer_id" : 313,
+		"store_id" : 2,
+		"first_name" : "DONALD",
+		"last_name" : "MAHON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 314,
+		"customer_id" : 314,
+		"store_id" : 1,
+		"first_name" : "GEORGE",
+		"last_name" : "LINTON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 315,
+		"customer_id" : 315,
+		"store_id" : 2,
+		"first_name" : "KENNETH",
+		"last_name" : "GOODEN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 316,
+		"customer_id" : 316,
+		"store_id" : 1,
+		"first_name" : "STEVEN",
+		"last_name" : "CURLEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 317,
+		"customer_id" : 317,
+		"store_id" : 2,
+		"first_name" : "EDWARD",
+		"last_name" : "BAUGH",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 318,
+		"customer_id" : 318,
+		"store_id" : 1,
+		"first_name" : "BRIAN",
+		"last_name" : "WYMAN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 319,
+		"customer_id" : 319,
+		"store_id" : 2,
+		"first_name" : "RONALD",
+		"last_name" : "WEINER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 320,
+		"customer_id" : 320,
+		"store_id" : 2,
+		"first_name" : "ANTHONY",
+		"last_name" : "SCHWAB",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 321,
+		"customer_id" : 321,
+		"store_id" : 1,
+		"first_name" : "KEVIN",
+		"last_name" : "SCHULER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 322,
+		"customer_id" : 322,
+		"store_id" : 1,
+		"first_name" : "JASON",
+		"last_name" : "MORRISSEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 323,
+		"customer_id" : 323,
+		"store_id" : 2,
+		"first_name" : "MATTHEW",
+		"last_name" : "MAHAN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 324,
+		"customer_id" : 324,
+		"store_id" : 2,
+		"first_name" : "GARY",
+		"last_name" : "COY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 325,
+		"customer_id" : 325,
+		"store_id" : 1,
+		"first_name" : "TIMOTHY",
+		"last_name" : "BUNN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 326,
+		"customer_id" : 326,
+		"store_id" : 1,
+		"first_name" : "JOSE",
+		"last_name" : "ANDREW",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 327,
+		"customer_id" : 327,
+		"store_id" : 2,
+		"first_name" : "LARRY",
+		"last_name" : "THRASHER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 328,
+		"customer_id" : 328,
+		"store_id" : 2,
+		"first_name" : "JEFFREY",
+		"last_name" : "SPEAR",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 329,
+		"customer_id" : 329,
+		"store_id" : 2,
+		"first_name" : "FRANK",
+		"last_name" : "WAGGONER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 330,
+		"customer_id" : 330,
+		"store_id" : 1,
+		"first_name" : "SCOTT",
+		"last_name" : "SHELLEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 331,
+		"customer_id" : 331,
+		"store_id" : 1,
+		"first_name" : "ERIC",
+		"last_name" : "ROBERT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 332,
+		"customer_id" : 332,
+		"store_id" : 1,
+		"first_name" : "STEPHEN",
+		"last_name" : "QUALLS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 333,
+		"customer_id" : 333,
+		"store_id" : 2,
+		"first_name" : "ANDREW",
+		"last_name" : "PURDY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 334,
+		"customer_id" : 334,
+		"store_id" : 2,
+		"first_name" : "RAYMOND",
+		"last_name" : "MCWHORTER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 335,
+		"customer_id" : 335,
+		"store_id" : 1,
+		"first_name" : "GREGORY",
+		"last_name" : "MAULDIN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 336,
+		"customer_id" : 336,
+		"store_id" : 1,
+		"first_name" : "JOSHUA",
+		"last_name" : "MARK",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 337,
+		"customer_id" : 337,
+		"store_id" : 1,
+		"first_name" : "JERRY",
+		"last_name" : "JORDON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 338,
+		"customer_id" : 338,
+		"store_id" : 1,
+		"first_name" : "DENNIS",
+		"last_name" : "GILMAN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 339,
+		"customer_id" : 339,
+		"store_id" : 2,
+		"first_name" : "WALTER",
+		"last_name" : "PERRYMAN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 340,
+		"customer_id" : 340,
+		"store_id" : 1,
+		"first_name" : "PATRICK",
+		"last_name" : "NEWSOM",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 341,
+		"customer_id" : 341,
+		"store_id" : 1,
+		"first_name" : "PETER",
+		"last_name" : "MENARD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 342,
+		"customer_id" : 342,
+		"store_id" : 1,
+		"first_name" : "HAROLD",
+		"last_name" : "MARTINO",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 343,
+		"customer_id" : 343,
+		"store_id" : 1,
+		"first_name" : "DOUGLAS",
+		"last_name" : "GRAF",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 344,
+		"customer_id" : 344,
+		"store_id" : 1,
+		"first_name" : "HENRY",
+		"last_name" : "BILLINGSLEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 345,
+		"customer_id" : 345,
+		"store_id" : 1,
+		"first_name" : "CARL",
+		"last_name" : "ARTIS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 346,
+		"customer_id" : 346,
+		"store_id" : 1,
+		"first_name" : "ARTHUR",
+		"last_name" : "SIMPKINS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 347,
+		"customer_id" : 347,
+		"store_id" : 2,
+		"first_name" : "RYAN",
+		"last_name" : "SALISBURY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 348,
+		"customer_id" : 348,
+		"store_id" : 2,
+		"first_name" : "ROGER",
+		"last_name" : "QUINTANILLA",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 349,
+		"customer_id" : 349,
+		"store_id" : 2,
+		"first_name" : "JOE",
+		"last_name" : "GILLILAND",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 350,
+		"customer_id" : 350,
+		"store_id" : 1,
+		"first_name" : "JUAN",
+		"last_name" : "FRALEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 351,
+		"customer_id" : 351,
+		"store_id" : 1,
+		"first_name" : "JACK",
+		"last_name" : "FOUST",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 352,
+		"customer_id" : 352,
+		"store_id" : 1,
+		"first_name" : "ALBERT",
+		"last_name" : "CROUSE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 353,
+		"customer_id" : 353,
+		"store_id" : 1,
+		"first_name" : "JONATHAN",
+		"last_name" : "SCARBOROUGH",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 354,
+		"customer_id" : 354,
+		"store_id" : 2,
+		"first_name" : "JUSTIN",
+		"last_name" : "NGO",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 355,
+		"customer_id" : 355,
+		"store_id" : 2,
+		"first_name" : "TERRY",
+		"last_name" : "GRISSOM",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 356,
+		"customer_id" : 356,
+		"store_id" : 2,
+		"first_name" : "GERALD",
+		"last_name" : "FULTZ",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 357,
+		"customer_id" : 357,
+		"store_id" : 1,
+		"first_name" : "KEITH",
+		"last_name" : "RICO",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 358,
+		"customer_id" : 358,
+		"store_id" : 2,
+		"first_name" : "SAMUEL",
+		"last_name" : "MARLOW",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 359,
+		"customer_id" : 359,
+		"store_id" : 2,
+		"first_name" : "WILLIE",
+		"last_name" : "MARKHAM",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 360,
+		"customer_id" : 360,
+		"store_id" : 2,
+		"first_name" : "RALPH",
+		"last_name" : "MADRIGAL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 361,
+		"customer_id" : 361,
+		"store_id" : 2,
+		"first_name" : "LAWRENCE",
+		"last_name" : "LAWTON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 362,
+		"customer_id" : 362,
+		"store_id" : 1,
+		"first_name" : "NICHOLAS",
+		"last_name" : "BARFIELD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 363,
+		"customer_id" : 363,
+		"store_id" : 2,
+		"first_name" : "ROY",
+		"last_name" : "WHITING",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 364,
+		"customer_id" : 364,
+		"store_id" : 1,
+		"first_name" : "BENJAMIN",
+		"last_name" : "VARNEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 365,
+		"customer_id" : 365,
+		"store_id" : 2,
+		"first_name" : "BRUCE",
+		"last_name" : "SCHWARZ",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 366,
+		"customer_id" : 366,
+		"store_id" : 1,
+		"first_name" : "BRANDON",
+		"last_name" : "HUEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 367,
+		"customer_id" : 367,
+		"store_id" : 1,
+		"first_name" : "ADAM",
+		"last_name" : "GOOCH",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 368,
+		"customer_id" : 368,
+		"store_id" : 1,
+		"first_name" : "HARRY",
+		"last_name" : "ARCE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 369,
+		"customer_id" : 369,
+		"store_id" : 2,
+		"first_name" : "FRED",
+		"last_name" : "WHEAT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 370,
+		"customer_id" : 370,
+		"store_id" : 2,
+		"first_name" : "WAYNE",
+		"last_name" : "TRUONG",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 371,
+		"customer_id" : 371,
+		"store_id" : 1,
+		"first_name" : "BILLY",
+		"last_name" : "POULIN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 372,
+		"customer_id" : 372,
+		"store_id" : 2,
+		"first_name" : "STEVE",
+		"last_name" : "MACKENZIE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 373,
+		"customer_id" : 373,
+		"store_id" : 1,
+		"first_name" : "LOUIS",
+		"last_name" : "LEONE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 374,
+		"customer_id" : 374,
+		"store_id" : 2,
+		"first_name" : "JEREMY",
+		"last_name" : "HURTADO",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 375,
+		"customer_id" : 375,
+		"store_id" : 2,
+		"first_name" : "AARON",
+		"last_name" : "SELBY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 376,
+		"customer_id" : 376,
+		"store_id" : 1,
+		"first_name" : "RANDY",
+		"last_name" : "GAITHER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 377,
+		"customer_id" : 377,
+		"store_id" : 1,
+		"first_name" : "HOWARD",
+		"last_name" : "FORTNER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 378,
+		"customer_id" : 378,
+		"store_id" : 1,
+		"first_name" : "EUGENE",
+		"last_name" : "CULPEPPER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 379,
+		"customer_id" : 379,
+		"store_id" : 1,
+		"first_name" : "CARLOS",
+		"last_name" : "COUGHLIN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 380,
+		"customer_id" : 380,
+		"store_id" : 1,
+		"first_name" : "RUSSELL",
+		"last_name" : "BRINSON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 381,
+		"customer_id" : 381,
+		"store_id" : 2,
+		"first_name" : "BOBBY",
+		"last_name" : "BOUDREAU",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 382,
+		"customer_id" : 382,
+		"store_id" : 2,
+		"first_name" : "VICTOR",
+		"last_name" : "BARKLEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 383,
+		"customer_id" : 383,
+		"store_id" : 1,
+		"first_name" : "MARTIN",
+		"last_name" : "BALES",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 384,
+		"customer_id" : 384,
+		"store_id" : 2,
+		"first_name" : "ERNEST",
+		"last_name" : "STEPP",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 385,
+		"customer_id" : 385,
+		"store_id" : 1,
+		"first_name" : "PHILLIP",
+		"last_name" : "HOLM",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 386,
+		"customer_id" : 386,
+		"store_id" : 1,
+		"first_name" : "TODD",
+		"last_name" : "TAN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 387,
+		"customer_id" : 387,
+		"store_id" : 2,
+		"first_name" : "JESSE",
+		"last_name" : "SCHILLING",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 388,
+		"customer_id" : 388,
+		"store_id" : 2,
+		"first_name" : "CRAIG",
+		"last_name" : "MORRELL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 389,
+		"customer_id" : 389,
+		"store_id" : 1,
+		"first_name" : "ALAN",
+		"last_name" : "KAHN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 390,
+		"customer_id" : 390,
+		"store_id" : 1,
+		"first_name" : "SHAWN",
+		"last_name" : "HEATON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 391,
+		"customer_id" : 391,
+		"store_id" : 1,
+		"first_name" : "CLARENCE",
+		"last_name" : "GAMEZ",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 392,
+		"customer_id" : 392,
+		"store_id" : 2,
+		"first_name" : "SEAN",
+		"last_name" : "DOUGLASS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 393,
+		"customer_id" : 393,
+		"store_id" : 1,
+		"first_name" : "PHILIP",
+		"last_name" : "CAUSEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 394,
+		"customer_id" : 394,
+		"store_id" : 2,
+		"first_name" : "CHRIS",
+		"last_name" : "BROTHERS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 395,
+		"customer_id" : 395,
+		"store_id" : 2,
+		"first_name" : "JOHNNY",
+		"last_name" : "TURPIN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 396,
+		"customer_id" : 396,
+		"store_id" : 1,
+		"first_name" : "EARL",
+		"last_name" : "SHANKS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 397,
+		"customer_id" : 397,
+		"store_id" : 1,
+		"first_name" : "JIMMY",
+		"last_name" : "SCHRADER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 398,
+		"customer_id" : 398,
+		"store_id" : 1,
+		"first_name" : "ANTONIO",
+		"last_name" : "MEEK",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 399,
+		"customer_id" : 399,
+		"store_id" : 1,
+		"first_name" : "DANNY",
+		"last_name" : "ISOM",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 400,
+		"customer_id" : 400,
+		"store_id" : 2,
+		"first_name" : "BRYAN",
+		"last_name" : "HARDISON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 401,
+		"customer_id" : 401,
+		"store_id" : 2,
+		"first_name" : "TONY",
+		"last_name" : "CARRANZA",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 402,
+		"customer_id" : 402,
+		"store_id" : 1,
+		"first_name" : "LUIS",
+		"last_name" : "YANEZ",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 403,
+		"customer_id" : 403,
+		"store_id" : 1,
+		"first_name" : "MIKE",
+		"last_name" : "WAY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 404,
+		"customer_id" : 404,
+		"store_id" : 2,
+		"first_name" : "STANLEY",
+		"last_name" : "SCROGGINS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 405,
+		"customer_id" : 405,
+		"store_id" : 1,
+		"first_name" : "LEONARD",
+		"last_name" : "SCHOFIELD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 406,
+		"customer_id" : 406,
+		"store_id" : 1,
+		"first_name" : "NATHAN",
+		"last_name" : "RUNYON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 407,
+		"customer_id" : 407,
+		"store_id" : 1,
+		"first_name" : "DALE",
+		"last_name" : "RATCLIFF",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 408,
+		"customer_id" : 408,
+		"store_id" : 1,
+		"first_name" : "MANUEL",
+		"last_name" : "MURRELL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 409,
+		"customer_id" : 409,
+		"store_id" : 2,
+		"first_name" : "RODNEY",
+		"last_name" : "MOELLER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 410,
+		"customer_id" : 410,
+		"store_id" : 2,
+		"first_name" : "CURTIS",
+		"last_name" : "IRBY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 411,
+		"customer_id" : 411,
+		"store_id" : 1,
+		"first_name" : "NORMAN",
+		"last_name" : "CURRIER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 412,
+		"customer_id" : 412,
+		"store_id" : 2,
+		"first_name" : "ALLEN",
+		"last_name" : "BUTTERFIELD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 413,
+		"customer_id" : 413,
+		"store_id" : 2,
+		"first_name" : "MARVIN",
+		"last_name" : "YEE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 414,
+		"customer_id" : 414,
+		"store_id" : 1,
+		"first_name" : "VINCENT",
+		"last_name" : "RALSTON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 415,
+		"customer_id" : 415,
+		"store_id" : 1,
+		"first_name" : "GLENN",
+		"last_name" : "PULLEN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 416,
+		"customer_id" : 416,
+		"store_id" : 2,
+		"first_name" : "JEFFERY",
+		"last_name" : "PINSON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 417,
+		"customer_id" : 417,
+		"store_id" : 1,
+		"first_name" : "TRAVIS",
+		"last_name" : "ESTEP",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 418,
+		"customer_id" : 418,
+		"store_id" : 2,
+		"first_name" : "JEFF",
+		"last_name" : "EAST",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 419,
+		"customer_id" : 419,
+		"store_id" : 1,
+		"first_name" : "CHAD",
+		"last_name" : "CARBONE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 420,
+		"customer_id" : 420,
+		"store_id" : 1,
+		"first_name" : "JACOB",
+		"last_name" : "LANCE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 421,
+		"customer_id" : 421,
+		"store_id" : 1,
+		"first_name" : "LEE",
+		"last_name" : "HAWKS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 422,
+		"customer_id" : 422,
+		"store_id" : 1,
+		"first_name" : "MELVIN",
+		"last_name" : "ELLINGTON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 423,
+		"customer_id" : 423,
+		"store_id" : 2,
+		"first_name" : "ALFRED",
+		"last_name" : "CASILLAS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 424,
+		"customer_id" : 424,
+		"store_id" : 2,
+		"first_name" : "KYLE",
+		"last_name" : "SPURLOCK",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 425,
+		"customer_id" : 425,
+		"store_id" : 2,
+		"first_name" : "FRANCIS",
+		"last_name" : "SIKES",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 426,
+		"customer_id" : 426,
+		"store_id" : 1,
+		"first_name" : "BRADLEY",
+		"last_name" : "MOTLEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 427,
+		"customer_id" : 427,
+		"store_id" : 2,
+		"first_name" : "JESUS",
+		"last_name" : "MCCARTNEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 428,
+		"customer_id" : 428,
+		"store_id" : 2,
+		"first_name" : "HERBERT",
+		"last_name" : "KRUGER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 429,
+		"customer_id" : 429,
+		"store_id" : 2,
+		"first_name" : "FREDERICK",
+		"last_name" : "ISBELL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 430,
+		"customer_id" : 430,
+		"store_id" : 1,
+		"first_name" : "RAY",
+		"last_name" : "HOULE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 431,
+		"customer_id" : 431,
+		"store_id" : 2,
+		"first_name" : "JOEL",
+		"last_name" : "FRANCISCO",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 432,
+		"customer_id" : 432,
+		"store_id" : 1,
+		"first_name" : "EDWIN",
+		"last_name" : "BURK",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 433,
+		"customer_id" : 433,
+		"store_id" : 1,
+		"first_name" : "DON",
+		"last_name" : "BONE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 434,
+		"customer_id" : 434,
+		"store_id" : 1,
+		"first_name" : "EDDIE",
+		"last_name" : "TOMLIN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 435,
+		"customer_id" : 435,
+		"store_id" : 2,
+		"first_name" : "RICKY",
+		"last_name" : "SHELBY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 436,
+		"customer_id" : 436,
+		"store_id" : 1,
+		"first_name" : "TROY",
+		"last_name" : "QUIGLEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 437,
+		"customer_id" : 437,
+		"store_id" : 2,
+		"first_name" : "RANDALL",
+		"last_name" : "NEUMANN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 438,
+		"customer_id" : 438,
+		"store_id" : 1,
+		"first_name" : "BARRY",
+		"last_name" : "LOVELACE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 439,
+		"customer_id" : 439,
+		"store_id" : 2,
+		"first_name" : "ALEXANDER",
+		"last_name" : "FENNELL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 440,
+		"customer_id" : 440,
+		"store_id" : 1,
+		"first_name" : "BERNARD",
+		"last_name" : "COLBY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 441,
+		"customer_id" : 441,
+		"store_id" : 1,
+		"first_name" : "MARIO",
+		"last_name" : "CHEATHAM",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 442,
+		"customer_id" : 442,
+		"store_id" : 1,
+		"first_name" : "LEROY",
+		"last_name" : "BUSTAMANTE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 443,
+		"customer_id" : 443,
+		"store_id" : 2,
+		"first_name" : "FRANCISCO",
+		"last_name" : "SKIDMORE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 444,
+		"customer_id" : 444,
+		"store_id" : 2,
+		"first_name" : "MARCUS",
+		"last_name" : "HIDALGO",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 445,
+		"customer_id" : 445,
+		"store_id" : 1,
+		"first_name" : "MICHEAL",
+		"last_name" : "FORMAN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 446,
+		"customer_id" : 446,
+		"store_id" : 2,
+		"first_name" : "THEODORE",
+		"last_name" : "CULP",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 447,
+		"customer_id" : 447,
+		"store_id" : 1,
+		"first_name" : "CLIFFORD",
+		"last_name" : "BOWENS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 448,
+		"customer_id" : 448,
+		"store_id" : 1,
+		"first_name" : "MIGUEL",
+		"last_name" : "BETANCOURT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 449,
+		"customer_id" : 449,
+		"store_id" : 2,
+		"first_name" : "OSCAR",
+		"last_name" : "AQUINO",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 450,
+		"customer_id" : 450,
+		"store_id" : 1,
+		"first_name" : "JAY",
+		"last_name" : "ROBB",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 451,
+		"customer_id" : 451,
+		"store_id" : 1,
+		"first_name" : "JIM",
+		"last_name" : "REA",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 452,
+		"customer_id" : 452,
+		"store_id" : 1,
+		"first_name" : "TOM",
+		"last_name" : "MILNER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 453,
+		"customer_id" : 453,
+		"store_id" : 1,
+		"first_name" : "CALVIN",
+		"last_name" : "MARTEL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 454,
+		"customer_id" : 454,
+		"store_id" : 2,
+		"first_name" : "ALEX",
+		"last_name" : "GRESHAM",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 455,
+		"customer_id" : 455,
+		"store_id" : 2,
+		"first_name" : "JON",
+		"last_name" : "WILES",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 456,
+		"customer_id" : 456,
+		"store_id" : 2,
+		"first_name" : "RONNIE",
+		"last_name" : "RICKETTS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 457,
+		"customer_id" : 457,
+		"store_id" : 2,
+		"first_name" : "BILL",
+		"last_name" : "GAVIN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 458,
+		"customer_id" : 458,
+		"store_id" : 1,
+		"first_name" : "LLOYD",
+		"last_name" : "DOWD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 459,
+		"customer_id" : 459,
+		"store_id" : 1,
+		"first_name" : "TOMMY",
+		"last_name" : "COLLAZO",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 460,
+		"customer_id" : 460,
+		"store_id" : 1,
+		"first_name" : "LEON",
+		"last_name" : "BOSTIC",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 461,
+		"customer_id" : 461,
+		"store_id" : 1,
+		"first_name" : "DEREK",
+		"last_name" : "BLAKELY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 462,
+		"customer_id" : 462,
+		"store_id" : 2,
+		"first_name" : "WARREN",
+		"last_name" : "SHERROD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 463,
+		"customer_id" : 463,
+		"store_id" : 2,
+		"first_name" : "DARRELL",
+		"last_name" : "POWER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 464,
+		"customer_id" : 464,
+		"store_id" : 1,
+		"first_name" : "JEROME",
+		"last_name" : "KENYON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 465,
+		"customer_id" : 465,
+		"store_id" : 1,
+		"first_name" : "FLOYD",
+		"last_name" : "GANDY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 466,
+		"customer_id" : 466,
+		"store_id" : 1,
+		"first_name" : "LEO",
+		"last_name" : "EBERT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 467,
+		"customer_id" : 467,
+		"store_id" : 2,
+		"first_name" : "ALVIN",
+		"last_name" : "DELOACH",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 468,
+		"customer_id" : 468,
+		"store_id" : 1,
+		"first_name" : "TIM",
+		"last_name" : "CARY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 469,
+		"customer_id" : 469,
+		"store_id" : 2,
+		"first_name" : "WESLEY",
+		"last_name" : "BULL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 470,
+		"customer_id" : 470,
+		"store_id" : 1,
+		"first_name" : "GORDON",
+		"last_name" : "ALLARD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 471,
+		"customer_id" : 471,
+		"store_id" : 1,
+		"first_name" : "DEAN",
+		"last_name" : "SAUER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 472,
+		"customer_id" : 472,
+		"store_id" : 1,
+		"first_name" : "GREG",
+		"last_name" : "ROBINS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 473,
+		"customer_id" : 473,
+		"store_id" : 2,
+		"first_name" : "JORGE",
+		"last_name" : "OLIVARES",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 474,
+		"customer_id" : 474,
+		"store_id" : 2,
+		"first_name" : "DUSTIN",
+		"last_name" : "GILLETTE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 475,
+		"customer_id" : 475,
+		"store_id" : 2,
+		"first_name" : "PEDRO",
+		"last_name" : "CHESTNUT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 476,
+		"customer_id" : 476,
+		"store_id" : 1,
+		"first_name" : "DERRICK",
+		"last_name" : "BOURQUE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 477,
+		"customer_id" : 477,
+		"store_id" : 1,
+		"first_name" : "DAN",
+		"last_name" : "PAINE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 478,
+		"customer_id" : 478,
+		"store_id" : 1,
+		"first_name" : "LEWIS",
+		"last_name" : "LYMAN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 479,
+		"customer_id" : 479,
+		"store_id" : 1,
+		"first_name" : "ZACHARY",
+		"last_name" : "HITE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 480,
+		"customer_id" : 480,
+		"store_id" : 1,
+		"first_name" : "COREY",
+		"last_name" : "HAUSER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 481,
+		"customer_id" : 481,
+		"store_id" : 1,
+		"first_name" : "HERMAN",
+		"last_name" : "DEVORE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 482,
+		"customer_id" : 482,
+		"store_id" : 1,
+		"first_name" : "MAURICE",
+		"last_name" : "CRAWLEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 483,
+		"customer_id" : 483,
+		"store_id" : 2,
+		"first_name" : "VERNON",
+		"last_name" : "CHAPA",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 484,
+		"customer_id" : 484,
+		"store_id" : 1,
+		"first_name" : "ROBERTO",
+		"last_name" : "VU",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 485,
+		"customer_id" : 485,
+		"store_id" : 1,
+		"first_name" : "CLYDE",
+		"last_name" : "TOBIAS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 486,
+		"customer_id" : 486,
+		"store_id" : 1,
+		"first_name" : "GLEN",
+		"last_name" : "TALBERT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 487,
+		"customer_id" : 487,
+		"store_id" : 2,
+		"first_name" : "HECTOR",
+		"last_name" : "POINDEXTER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 488,
+		"customer_id" : 488,
+		"store_id" : 2,
+		"first_name" : "SHANE",
+		"last_name" : "MILLARD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 489,
+		"customer_id" : 489,
+		"store_id" : 1,
+		"first_name" : "RICARDO",
+		"last_name" : "MEADOR",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 490,
+		"customer_id" : 490,
+		"store_id" : 1,
+		"first_name" : "SAM",
+		"last_name" : "MCDUFFIE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 491,
+		"customer_id" : 491,
+		"store_id" : 2,
+		"first_name" : "RICK",
+		"last_name" : "MATTOX",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 492,
+		"customer_id" : 492,
+		"store_id" : 2,
+		"first_name" : "LESTER",
+		"last_name" : "KRAUS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 493,
+		"customer_id" : 493,
+		"store_id" : 1,
+		"first_name" : "BRENT",
+		"last_name" : "HARKINS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 494,
+		"customer_id" : 494,
+		"store_id" : 2,
+		"first_name" : "RAMON",
+		"last_name" : "CHOATE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 495,
+		"customer_id" : 495,
+		"store_id" : 2,
+		"first_name" : "CHARLIE",
+		"last_name" : "BESS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 496,
+		"customer_id" : 496,
+		"store_id" : 2,
+		"first_name" : "TYLER",
+		"last_name" : "WREN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 497,
+		"customer_id" : 497,
+		"store_id" : 2,
+		"first_name" : "GILBERT",
+		"last_name" : "SLEDGE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 498,
+		"customer_id" : 498,
+		"store_id" : 1,
+		"first_name" : "GENE",
+		"last_name" : "SANBORN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 499,
+		"customer_id" : 499,
+		"store_id" : 2,
+		"first_name" : "MARC",
+		"last_name" : "OUTLAW",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 500,
+		"customer_id" : 500,
+		"store_id" : 1,
+		"first_name" : "REGINALD",
+		"last_name" : "KINDER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 501,
+		"customer_id" : 501,
+		"store_id" : 1,
+		"first_name" : "RUBEN",
+		"last_name" : "GEARY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 502,
+		"customer_id" : 502,
+		"store_id" : 1,
+		"first_name" : "BRETT",
+		"last_name" : "CORNWELL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 503,
+		"customer_id" : 503,
+		"store_id" : 1,
+		"first_name" : "ANGEL",
+		"last_name" : "BARCLAY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 504,
+		"customer_id" : 504,
+		"store_id" : 1,
+		"first_name" : "NATHANIEL",
+		"last_name" : "ADAM",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 505,
+		"customer_id" : 505,
+		"store_id" : 1,
+		"first_name" : "RAFAEL",
+		"last_name" : "ABNEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 506,
+		"customer_id" : 506,
+		"store_id" : 2,
+		"first_name" : "LESLIE",
+		"last_name" : "SEWARD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 507,
+		"customer_id" : 507,
+		"store_id" : 2,
+		"first_name" : "EDGAR",
+		"last_name" : "RHOADS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 508,
+		"customer_id" : 508,
+		"store_id" : 2,
+		"first_name" : "MILTON",
+		"last_name" : "HOWLAND",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 509,
+		"customer_id" : 509,
+		"store_id" : 1,
+		"first_name" : "RAUL",
+		"last_name" : "FORTIER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 510,
+		"customer_id" : 510,
+		"store_id" : 2,
+		"first_name" : "BEN",
+		"last_name" : "EASTER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 511,
+		"customer_id" : 511,
+		"store_id" : 1,
+		"first_name" : "CHESTER",
+		"last_name" : "BENNER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 512,
+		"customer_id" : 512,
+		"store_id" : 1,
+		"first_name" : "CECIL",
+		"last_name" : "VINES",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 513,
+		"customer_id" : 513,
+		"store_id" : 2,
+		"first_name" : "DUANE",
+		"last_name" : "TUBBS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 514,
+		"customer_id" : 514,
+		"store_id" : 2,
+		"first_name" : "FRANKLIN",
+		"last_name" : "TROUTMAN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 515,
+		"customer_id" : 515,
+		"store_id" : 1,
+		"first_name" : "ANDRE",
+		"last_name" : "RAPP",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 516,
+		"customer_id" : 516,
+		"store_id" : 2,
+		"first_name" : "ELMER",
+		"last_name" : "NOE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 517,
+		"customer_id" : 517,
+		"store_id" : 2,
+		"first_name" : "BRAD",
+		"last_name" : "MCCURDY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 518,
+		"customer_id" : 518,
+		"store_id" : 1,
+		"first_name" : "GABRIEL",
+		"last_name" : "HARDER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 519,
+		"customer_id" : 519,
+		"store_id" : 2,
+		"first_name" : "RON",
+		"last_name" : "DELUCA",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 520,
+		"customer_id" : 520,
+		"store_id" : 2,
+		"first_name" : "MITCHELL",
+		"last_name" : "WESTMORELAND",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 521,
+		"customer_id" : 521,
+		"store_id" : 2,
+		"first_name" : "ROLAND",
+		"last_name" : "SOUTH",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 522,
+		"customer_id" : 522,
+		"store_id" : 2,
+		"first_name" : "ARNOLD",
+		"last_name" : "HAVENS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 523,
+		"customer_id" : 523,
+		"store_id" : 1,
+		"first_name" : "HARVEY",
+		"last_name" : "GUAJARDO",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 524,
+		"customer_id" : 524,
+		"store_id" : 1,
+		"first_name" : "JARED",
+		"last_name" : "ELY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 525,
+		"customer_id" : 525,
+		"store_id" : 2,
+		"first_name" : "ADRIAN",
+		"last_name" : "CLARY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 526,
+		"customer_id" : 526,
+		"store_id" : 2,
+		"first_name" : "KARL",
+		"last_name" : "SEAL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 527,
+		"customer_id" : 527,
+		"store_id" : 1,
+		"first_name" : "CORY",
+		"last_name" : "MEEHAN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 528,
+		"customer_id" : 528,
+		"store_id" : 1,
+		"first_name" : "CLAUDE",
+		"last_name" : "HERZOG",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 529,
+		"customer_id" : 529,
+		"store_id" : 2,
+		"first_name" : "ERIK",
+		"last_name" : "GUILLEN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 530,
+		"customer_id" : 530,
+		"store_id" : 2,
+		"first_name" : "DARRYL",
+		"last_name" : "ASHCRAFT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 531,
+		"customer_id" : 531,
+		"store_id" : 2,
+		"first_name" : "JAMIE",
+		"last_name" : "WAUGH",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 532,
+		"customer_id" : 532,
+		"store_id" : 2,
+		"first_name" : "NEIL",
+		"last_name" : "RENNER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 533,
+		"customer_id" : 533,
+		"store_id" : 1,
+		"first_name" : "JESSIE",
+		"last_name" : "MILAM",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 534,
+		"customer_id" : 534,
+		"store_id" : 1,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "JUNG",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 535,
+		"customer_id" : 535,
+		"store_id" : 1,
+		"first_name" : "JAVIER",
+		"last_name" : "ELROD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 536,
+		"customer_id" : 536,
+		"store_id" : 2,
+		"first_name" : "FERNANDO",
+		"last_name" : "CHURCHILL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 537,
+		"customer_id" : 537,
+		"store_id" : 2,
+		"first_name" : "CLINTON",
+		"last_name" : "BUFORD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 538,
+		"customer_id" : 538,
+		"store_id" : 2,
+		"first_name" : "TED",
+		"last_name" : "BREAUX",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 539,
+		"customer_id" : 539,
+		"store_id" : 1,
+		"first_name" : "MATHEW",
+		"last_name" : "BOLIN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 540,
+		"customer_id" : 540,
+		"store_id" : 1,
+		"first_name" : "TYRONE",
+		"last_name" : "ASHER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 541,
+		"customer_id" : 541,
+		"store_id" : 2,
+		"first_name" : "DARREN",
+		"last_name" : "WINDHAM",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 542,
+		"customer_id" : 542,
+		"store_id" : 2,
+		"first_name" : "LONNIE",
+		"last_name" : "TIRADO",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 543,
+		"customer_id" : 543,
+		"store_id" : 1,
+		"first_name" : "LANCE",
+		"last_name" : "PEMBERTON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 544,
+		"customer_id" : 544,
+		"store_id" : 2,
+		"first_name" : "CODY",
+		"last_name" : "NOLEN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 545,
+		"customer_id" : 545,
+		"store_id" : 2,
+		"first_name" : "JULIO",
+		"last_name" : "NOLAND",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 546,
+		"customer_id" : 546,
+		"store_id" : 1,
+		"first_name" : "KELLY",
+		"last_name" : "KNOTT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 547,
+		"customer_id" : 547,
+		"store_id" : 1,
+		"first_name" : "KURT",
+		"last_name" : "EMMONS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 548,
+		"customer_id" : 548,
+		"store_id" : 1,
+		"first_name" : "ALLAN",
+		"last_name" : "CORNISH",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 549,
+		"customer_id" : 549,
+		"store_id" : 1,
+		"first_name" : "NELSON",
+		"last_name" : "CHRISTENSON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 550,
+		"customer_id" : 550,
+		"store_id" : 2,
+		"first_name" : "GUY",
+		"last_name" : "BROWNLEE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 551,
+		"customer_id" : 551,
+		"store_id" : 2,
+		"first_name" : "CLAYTON",
+		"last_name" : "BARBEE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 552,
+		"customer_id" : 552,
+		"store_id" : 2,
+		"first_name" : "HUGH",
+		"last_name" : "WALDROP",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 553,
+		"customer_id" : 553,
+		"store_id" : 1,
+		"first_name" : "MAX",
+		"last_name" : "PITT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 554,
+		"customer_id" : 554,
+		"store_id" : 1,
+		"first_name" : "DWAYNE",
+		"last_name" : "OLVERA",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 555,
+		"customer_id" : 555,
+		"store_id" : 1,
+		"first_name" : "DWIGHT",
+		"last_name" : "LOMBARDI",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 556,
+		"customer_id" : 556,
+		"store_id" : 2,
+		"first_name" : "ARMANDO",
+		"last_name" : "GRUBER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 557,
+		"customer_id" : 557,
+		"store_id" : 1,
+		"first_name" : "FELIX",
+		"last_name" : "GAFFNEY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 558,
+		"customer_id" : 558,
+		"store_id" : 1,
+		"first_name" : "JIMMIE",
+		"last_name" : "EGGLESTON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 559,
+		"customer_id" : 559,
+		"store_id" : 2,
+		"first_name" : "EVERETT",
+		"last_name" : "BANDA",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 560,
+		"customer_id" : 560,
+		"store_id" : 1,
+		"first_name" : "JORDAN",
+		"last_name" : "ARCHULETA",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 561,
+		"customer_id" : 561,
+		"store_id" : 2,
+		"first_name" : "IAN",
+		"last_name" : "STILL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 562,
+		"customer_id" : 562,
+		"store_id" : 1,
+		"first_name" : "WALLACE",
+		"last_name" : "SLONE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 563,
+		"customer_id" : 563,
+		"store_id" : 2,
+		"first_name" : "KEN",
+		"last_name" : "PREWITT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 564,
+		"customer_id" : 564,
+		"store_id" : 2,
+		"first_name" : "BOB",
+		"last_name" : "PFEIFFER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 565,
+		"customer_id" : 565,
+		"store_id" : 2,
+		"first_name" : "JAIME",
+		"last_name" : "NETTLES",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 566,
+		"customer_id" : 566,
+		"store_id" : 1,
+		"first_name" : "CASEY",
+		"last_name" : "MENA",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 567,
+		"customer_id" : 567,
+		"store_id" : 2,
+		"first_name" : "ALFREDO",
+		"last_name" : "MCADAMS",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 568,
+		"customer_id" : 568,
+		"store_id" : 2,
+		"first_name" : "ALBERTO",
+		"last_name" : "HENNING",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 569,
+		"customer_id" : 569,
+		"store_id" : 2,
+		"first_name" : "DAVE",
+		"last_name" : "GARDINER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 570,
+		"customer_id" : 570,
+		"store_id" : 2,
+		"first_name" : "IVAN",
+		"last_name" : "CROMWELL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 571,
+		"customer_id" : 571,
+		"store_id" : 2,
+		"first_name" : "JOHNNIE",
+		"last_name" : "CHISHOLM",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 572,
+		"customer_id" : 572,
+		"store_id" : 1,
+		"first_name" : "SIDNEY",
+		"last_name" : "BURLESON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 573,
+		"customer_id" : 573,
+		"store_id" : 1,
+		"first_name" : "BYRON",
+		"last_name" : "BOX",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 574,
+		"customer_id" : 574,
+		"store_id" : 2,
+		"first_name" : "JULIAN",
+		"last_name" : "VEST",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 575,
+		"customer_id" : 575,
+		"store_id" : 2,
+		"first_name" : "ISAAC",
+		"last_name" : "OGLESBY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 576,
+		"customer_id" : 576,
+		"store_id" : 2,
+		"first_name" : "MORRIS",
+		"last_name" : "MCCARTER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 577,
+		"customer_id" : 577,
+		"store_id" : 2,
+		"first_name" : "CLIFTON",
+		"last_name" : "MALCOLM",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 578,
+		"customer_id" : 578,
+		"store_id" : 2,
+		"first_name" : "WILLARD",
+		"last_name" : "LUMPKIN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 579,
+		"customer_id" : 579,
+		"store_id" : 2,
+		"first_name" : "DARYL",
+		"last_name" : "LARUE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 580,
+		"customer_id" : 580,
+		"store_id" : 1,
+		"first_name" : "ROSS",
+		"last_name" : "GREY",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 581,
+		"customer_id" : 581,
+		"store_id" : 1,
+		"first_name" : "VIRGIL",
+		"last_name" : "WOFFORD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 582,
+		"customer_id" : 582,
+		"store_id" : 2,
+		"first_name" : "ANDY",
+		"last_name" : "VANHORN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 583,
+		"customer_id" : 583,
+		"store_id" : 1,
+		"first_name" : "MARSHALL",
+		"last_name" : "THORN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 584,
+		"customer_id" : 584,
+		"store_id" : 2,
+		"first_name" : "SALVADOR",
+		"last_name" : "TEEL",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 585,
+		"customer_id" : 585,
+		"store_id" : 1,
+		"first_name" : "PERRY",
+		"last_name" : "SWAFFORD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 586,
+		"customer_id" : 586,
+		"store_id" : 1,
+		"first_name" : "KIRK",
+		"last_name" : "STCLAIR",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 587,
+		"customer_id" : 587,
+		"store_id" : 1,
+		"first_name" : "SERGIO",
+		"last_name" : "STANFIELD",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 588,
+		"customer_id" : 588,
+		"store_id" : 1,
+		"first_name" : "MARION",
+		"last_name" : "OCAMPO",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 589,
+		"customer_id" : 589,
+		"store_id" : 1,
+		"first_name" : "TRACY",
+		"last_name" : "HERRMANN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 590,
+		"customer_id" : 590,
+		"store_id" : 2,
+		"first_name" : "SETH",
+		"last_name" : "HANNON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 591,
+		"customer_id" : 591,
+		"store_id" : 1,
+		"first_name" : "KENT",
+		"last_name" : "ARSENAULT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 592,
+		"customer_id" : 592,
+		"store_id" : 1,
+		"first_name" : "TERRANCE",
+		"last_name" : "ROUSH",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 593,
+		"customer_id" : 593,
+		"store_id" : 2,
+		"first_name" : "RENE",
+		"last_name" : "MCALISTER",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 594,
+		"customer_id" : 594,
+		"store_id" : 1,
+		"first_name" : "EDUARDO",
+		"last_name" : "HIATT",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 595,
+		"customer_id" : 595,
+		"store_id" : 1,
+		"first_name" : "TERRENCE",
+		"last_name" : "GUNDERSON",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 596,
+		"customer_id" : 596,
+		"store_id" : 1,
+		"first_name" : "ENRIQUE",
+		"last_name" : "FORSYTHE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 597,
+		"customer_id" : 597,
+		"store_id" : 1,
+		"first_name" : "FREDDIE",
+		"last_name" : "DUGGAN",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 598,
+		"customer_id" : 598,
+		"store_id" : 1,
+		"first_name" : "WADE",
+		"last_name" : "DELVALLE",
+		"create_date" : "2006-02-14 22:04:37"
+	},
+	{
+		"customer_key" : 599,
+		"customer_id" : 599,
+		"store_id" : 2,
+		"first_name" : "AUSTIN",
+		"last_name" : "CINTRON",
+		"create_date" : "2006-02-14 22:04:37"
+	}
+]
